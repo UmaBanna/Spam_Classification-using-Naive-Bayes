@@ -1,22 +1,24 @@
-# Spam_Classification using Naive Bayes Project
+# Spam Classification using Naive Bayes Project
 
-# This project involves building a text classification model with various feature selection techniques and evaluating its performance. The main tasks include preprocessing text data, extracting vocabulary, and training and testing the model.
+This project involves building a text classification model with various feature selection techniques and evaluating its performance. The main tasks include preprocessing text data, extracting vocabulary, and training and testing the model.
 
-# Project Structure
+## Project Structure
 
-# Project.py: Main script containing the implementation of the text classification model, text preprocessing functions, and evaluation methods.
+- `Project.py`: Main script containing the implementation of the text classification model, text preprocessing functions, and evaluation methods.
 
-# Requirements
+## Requirements
 
-# To run this project, you need the following Python libraries:
+To run this project, you need the following Python libraries:
 
-# nltk
-# sklearn
-# matplotlib
+- `nltk`
+- `sklearn`
+- `matplotlib`
 
-# You can install the required libraries using the following command:
+You can install the required libraries using the following command:
 
-# pip install nltk sklearn matplotlib
+```bash
+pip install nltk sklearn matplotlib
+
 
 # Usage
 
