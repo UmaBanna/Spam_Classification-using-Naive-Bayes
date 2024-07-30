@@ -34,7 +34,8 @@ def preprocess_text(text):
 ### 2. Extract Vocabulary
 Extracts a set of unique words from a list of documents.
 
-```python
+```
+python
 
 def extract_vocabulary(documents):
     ...
