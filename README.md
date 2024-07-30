@@ -14,11 +14,12 @@ To run this project, you need the following Python libraries:
 - `sklearn`
 - `matplotlib`
 
-## Author
-
-This project is developed by Uma Maheshwari Banna.
-
 You can install the required libraries using the following command:
 
 ```bash
 pip install nltk sklearn matplotlib
+
+```
+## Author
+
+This project is developed by Uma Maheshwari Banna.
