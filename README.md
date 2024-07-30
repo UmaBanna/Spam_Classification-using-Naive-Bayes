@@ -1,2 +1,46 @@
-# Spam_Classification
-siri
+# Spam_Classification using Naive Bayes Project
+
+# This project involves building a text classification model with various feature selection techniques and evaluating its performance. The main tasks include preprocessing text data, extracting vocabulary, and training and testing the model.
+
+# Project Structure
+
+# Project.py: Main script containing the implementation of the text classification model, text preprocessing functions, and evaluation methods.
+
+# Requirements
+
+# To run this project, you need the following Python libraries:
+
+# nltk
+# sklearn
+# matplotlib
+
+# You can install the required libraries using the following command:
+
+# pip install nltk sklearn matplotlib
+
+# Usage
+
+# Preprocess Text: Tokenizes the text, converts it to lowercase, removes punctuation and stopwords, and applies stemming.
+
+# def preprocess_text(text):
+# ...
+
+# Extract Vocabulary: Extracts a set of unique words from a list of documents.
+
+# def extract_vocabulary(documents):
+# ...
+
+# Train and Evaluate Model: Trains the text classification model using different feature selection methods and evaluates its performance.
+
+# def train_and_evaluate_with_selected_vocabulary(X_train, y_train, X_test, y_test, selected_vocabulary):
+# ...
+
+# Plot Results: Plots the number of features versus F1 score for different feature selection methods.
+
+# import matplotlib.pyplot as plt
+# ...
+# plt.show()
+
+# Author
+
+# This project is developed by Uma Maheshwari Banna.
