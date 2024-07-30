@@ -34,8 +34,7 @@ def preprocess_text(text):
 ### 2. Extract Vocabulary
 Extracts a set of unique words from a list of documents.
 
-```
-python
+```python
 
 def extract_vocabulary(documents):
     ...
@@ -43,8 +42,7 @@ def extract_vocabulary(documents):
 
 ### 3. Train and Evaluate Model
 Trains the text classification model using different feature selection methods and evaluates its performance.
-```
-python
+```python
 
 def train_and_evaluate_with_selected_vocabulary(X_train, y_train, X_test, y_test, selected_vocabulary):
     ...
@@ -52,8 +50,7 @@ def train_and_evaluate_with_selected_vocabulary(X_train, y_train, X_test, y_test
 
 ### 4. Plot Results
 Plots the number of features versus F1 score for different feature selection methods.
-```
-python
+```python
 
 import matplotlib.pyplot as plt
 ...
